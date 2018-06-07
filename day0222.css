@@ -1,0 +1,34 @@
+#box{
+	color:pink;
+	font-size: 24px;
+}
+.text{
+	width:200px;
+	height:200px;
+	background: yellow;
+	font-size:24px;
+	text-align: center;
+	line-height: 200px;
+/*	margin:30px 40px;*/
+	margin:40px;
+	/*border-style:solid;
+	border-color:#ff0000 #0000ff;*/
+	border:2px red solid;
+	padding: 10px 20px;
+	box-sizing:border-box;
+}
+/*#box{
+	color:green;
+}*/
+.demo{
+	width:160px;
+	height:180px;
+	background: pink;
+	font-size:24px;
+	text-align: center;
+	margin:30px 40px 30px;
+	line-height: 200px;
+	border:2px red dashed;
+	border-top: 2px yellow solid;
+	padding: 10px 20px;
+}
